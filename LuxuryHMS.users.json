@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "690f76fa14af0fc0f0bd2248"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2y$10$K/uDxIAJs1tmPOEvYMGvrO23vpsjPd9iyc7JkhEBVj2Q623g3slBu",
+  "contact": "0123456789",
+  "role": "admin",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-08T16:59:38.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T06:19:46.708Z"
+  },
+  "__v": 0,
+  "image": "uploads/1762755586697-Screenshot_(42).png"
+},
+{
+  "_id": {
+    "$oid": "690f772114af0fc0f0bd224c"
+  },
+  "name": "Manager",
+  "email": "manager@gmail.com",
+  "password": "$2y$10$kC3XMcCl362gpyY4opCk/ejk0CtxgZEC/bi3bOUDhOM.zwhyk0qmy",
+  "contact": "0123456789",
+  "role": "manager",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-08T17:00:17.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-08T17:00:17.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690f779314af0fc0f0bd2254"
+  },
+  "name": "Receptionist",
+  "email": "receptionist@gmail.com",
+  "password": "$2y$10$YNMor4HRlQKtilGUxualbufZwrDcB9S9Csqb8Hg9QWIqdtcXgELru",
+  "contact": "0123456789",
+  "role": "receptionist",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-08T17:02:11.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-08T17:02:11.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690f77c214af0fc0f0bd2258"
+  },
+  "name": "Housekeeping",
+  "email": "housekeeping@gmail.com",
+  "password": "$2y$10$2QsIZX5ZY7leCRTXxRW3fujScBSbNAqWOoOffQ7cQFk5WdmtIJgdy",
+  "contact": "0123456789",
+  "role": "housekeeping",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-08T17:02:58.505Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-08T17:02:58.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6911b7d31abee552f4325ff5"
+  },
+  "name": "Guest",
+  "role": "guest",
+  "email": "guest@gmail.com",
+  "image": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-10T10:00:51.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-10T10:00:51.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6913137332728bf12c60c509"
+  },
+  "name": "hfghfghgf",
+  "email": "hgfhgf@gmail.com",
+  "password": "$2b$10$zMWM3W223/.sJxLw3138menC9ajr2ItrKKWdEuMMs4ldLUpHT9Ahu",
+  "contact": "01323456856",
+  "role": "user",
+  "image": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-11-11T10:44:03.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T10:44:03.854Z"
+  },
+  "userCode": "LS-USER-0001",
+  "__v": 0
+}]
